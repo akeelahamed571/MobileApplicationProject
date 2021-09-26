@@ -80,7 +80,7 @@ public class PromotionCodesActivity extends AppCompatActivity {
         });
 
     }
-
+//filtering the expiry dates of promotion codes to All, Expired dates, and non expired dates.
     private void filterDialog() {
 
         String[] options = {"All","Expired","Not Expired"};
