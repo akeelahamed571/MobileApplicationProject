@@ -8,8 +8,6 @@ import android.graphics.Paint;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Filter;
-import android.widget.Filterable;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -19,7 +17,6 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.groceryapp.Activity.EditProductActivity;
-import com.example.groceryapp.FilterProduct;
 import com.example.groceryapp.Model.ModelProduct;
 import com.example.groceryapp.R;
 import com.google.android.gms.tasks.OnFailureListener;
