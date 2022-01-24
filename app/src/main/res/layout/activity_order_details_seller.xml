@@ -212,7 +212,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="5dp"
                     android:layout_marginEnd="5dp"
-                    android:text="Mirpur1, Dhaka-1216"
+                    android:text="Colombo, Sri Lanka"
                     android:textColor="@color/black"
                     android:textSize="16sp"
                     />
